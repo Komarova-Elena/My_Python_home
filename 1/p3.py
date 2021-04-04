@@ -1,5 +1,0 @@
-a = int(input("Введите число: "))
-b1 = int("%s" % a)
-b2 = int("%s%s" % (a,a))
-b3 = int("%s%s%s" % (a,a,a))
-print(b1 + b2 + b3)
